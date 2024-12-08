@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This took longest time to sort random list(6s). Comparatively lower time for reversed list, followed by sorted list.
+
+sort2 uses: Merge Sort
+
+How do you know?: This took nearly the same time for reversed and random inputs.(Around 1s) Performed well for sorted inputs.
+
+sort3 uses: Selection Sort
+
+How do you know?: This was the slowest for both reversed and sorted inputs.

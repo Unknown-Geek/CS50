@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+<div class="section">
+    <table>
+        <thead>
+            <tr>
+                <th>Symbol</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{ lookup['symbol'] }}</td>
+                <td>{{ lookup['price'] | usd }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+{% endblock %}

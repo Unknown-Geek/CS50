@@ -1,0 +1,9 @@
+High energy + high valence + high danceability: Energetic Aura
+High energy + low valence + high danceability: Anxious Aura
+Low energy + high valence + low danceability: Calm Aura
+Low energy + low valence + low danceability: Sad and Moody Aura
+
+Limitations:
+The Aura predictions are based on a limited dataset of 100 songs, which might not be enough for an accurate prediction.
+Also there is a lack of context, since a playlist could be meant for a specific purpose or scenario.
+It doesn't take account of the person's mood changes over time.

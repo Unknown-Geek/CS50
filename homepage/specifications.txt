@@ -1,0 +1,22 @@
+HTML Tags:
+1. <!DOCTYPE html> - Defines the document type and version of HTML.
+2. <html> - Root element of the HTML document.
+3. <head> - Contains meta-information about the document.
+4. <meta> - Specifies metadata such as character set and viewport settings.
+5. <link> - Links external resources like CSS files.
+6. <title> - Sets the title of the webpage.
+7. <body> - Contains the content of the HTML document.
+8. <nav> - Defines a navigation bar.
+9. <section> - Defines a section in the document.
+10. <button> - Creates a clickable button.
+
+CSS Properties:
+1. `background-color` - Sets the background color of an element.
+2. `color` - Sets the text color of an element.
+3. `font-size` - Sets the size of the font.
+4. `margin` - Sets the margin space around elements.
+5. `padding` - Sets the padding space inside elements.
+
+JavaScript and Bootstrap Usage:
+- JavaScript: Used for navigation functionality, such as redirecting to different pages when clicking on navigation links and buttons.
+- Bootstrap: Utilized for styling, including the navigation bar and buttons.
